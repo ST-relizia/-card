@@ -1,0 +1,83 @@
+* {
+    margin: 0px;
+    /* padding: 10px; */
+}
+
+.card {
+    height: 400px;
+    border: 5px solid black;
+    width: 900px;
+    background-color: cyan;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.content {
+    font-size: 70px;
+    padding: 5px 20px;
+    text-align: center;
+
+
+}
+
+img {
+    width: 500px;
+    padding: 2px;
+    margin: 2px;
+    border: 2px solid black;
+    border-radius: 0 50px;
+    float: left;
+}
+
+.about {
+    text-align: center;
+    font-weight: bold;
+}
+
+button {
+    margin-left: 150px;
+    margin-top: 60px;
+    padding: 5px;
+    text-align: left;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.b {
+    border: 2px solid black;
+    border-radius: 0 15px;
+    padding: 0 10px;
+    color: black;
+    background-color: yellow;
+}
+
+.home {
+    padding: 35px;
+    margin: -20px;
+    word-spacing: 10px;
+    margin-top: -50px;
+    word-spacing: 15px;
+}
+
+.navi {
+    background-color: green;
+    word-spacing: 50px;
+    cursor: pointer;
+}
+
+.nav {
+    font-size: 40px;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 0 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-top: 2px solid black;
+    color: white;
+}
+
+.navi :hover {
+    background-color: skyblue;
+    color: black;
+}
